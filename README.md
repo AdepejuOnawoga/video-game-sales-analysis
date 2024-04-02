@@ -33,7 +33,7 @@ cd video-game-sales-analysis
   ```bash
   python mysql_analysis.py
   ```
-## Description
+### Description
 
 This part of the project focuses on analyzing video game sales data stored in a MYSQL database. It performs the following tasks:
 
